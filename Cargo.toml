@@ -1,0 +1,9 @@
+[package]
+name = "tangerine-transactions-to-ledger"
+version = "0.1.0"
+authors = ["Alberto Leal <mailforalberto@gmail.com>"]
+
+[dependencies]
+csv = "1.0.0-beta.5"
+clap = "2.28.0"
+chrono = "0.4.0"
